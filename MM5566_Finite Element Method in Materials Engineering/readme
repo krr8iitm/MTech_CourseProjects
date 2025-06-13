@@ -1,5 +1,5 @@
 Minimizing distortion in SS304 laser welding: Comparative analysis of Heat source models with preheating optimization 
 
-All the Fortran codes used for generating the 4 types of heat source models are also available in the folder: Heat_Source_Models
-
 All the Input files are available in the folder: Abaqus_Input_Files
+
+All the Fortran codes used for generating the 4 types of heat source models are also available in the folder: Heat_Source_Models
